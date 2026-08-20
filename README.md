@@ -4,6 +4,8 @@ An Arduino-based password authentication system designed to provide secure acces
 
 ---
 
+
+
 ## 📌 Project Overview
 
 The **Password Gate Lock System** is an embedded security project that provides password-based access control.
