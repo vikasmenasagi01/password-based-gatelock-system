@@ -4,6 +4,18 @@ An Arduino-based password authentication system designed to provide secure acces
 
 ---
 
+## 📸 Working Prototype
+
+<p align="center">
+  <img src="password%20based%20gatelock%20system%20prototype.jpeg" alt="Working Prototype" width="700">
+</p>
+
+<p align="center">
+  <b>Working Prototype of Password Based Gate Lock System</b>
+</p>
+
+---
+
 
 
 ## 📌 Project Overview
@@ -35,6 +47,18 @@ The user enters a password using a keypad. The Arduino compares the entered pass
 - Connecting Wires
 - Power Supply
 - Gate/Lock Prototype
+
+---
+
+## 🔌 Circuit Diagram
+
+<p align="center">
+  <img src="password%20based%20gatelock%20system%20circuit%20diagram.jpeg" alt="Circuit Diagram" width="700">
+</p>
+
+<p align="center">
+  <b>Circuit Diagram of Password Based Gate Lock System</b>
+</p>
 
 ---
 
